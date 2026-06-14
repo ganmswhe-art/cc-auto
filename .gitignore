@@ -1,0 +1,26 @@
+# code_fixer 运行时产物 (不提交)
+history/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+
+# 临时文件
+/tmp/
+*.tmp
+*.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 环境
+.venv/
+venv/
+.env
+
+# 会话数据
+*.session_state.json

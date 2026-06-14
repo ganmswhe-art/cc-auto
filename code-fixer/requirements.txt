@@ -1,0 +1,15 @@
+# code_fixer 依赖
+# 安装: pip install -r requirements.txt
+
+# 核心 API
+anthropic>=0.39.0
+openai>=1.55.0
+
+# Docker Python SDK
+docker>=7.0.0
+
+# 编码检测
+chardet>=5.0.0
+
+# 可选: 更好的测试输出
+rich>=13.0.0
